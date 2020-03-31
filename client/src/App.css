@@ -149,3 +149,78 @@ input[type='number'] {
 .list li:hover .delete-btn {
   opacity: 1;
 }
+
+ .social_icons_rounded ul {
+     padding: 0;
+     list-style: none;
+     margin-top: 200px;
+     margin-left: 500px
+ }
+
+ .social_icons_rounded ul li a {
+     float: left;
+     border-radius: 50%;
+     line-height: 40px;
+     color: #e0e0e0;
+     height: 40px;
+     width: 40px;
+     text-align: center;
+     margin-bottom: 40px;
+     border: 1px solid #e0e0e0
+ }
+
+ .social_icons_rounded ul li a i {
+     font-size: 16px
+ }
+
+ .f_facebook:hover {
+     color: #fff;
+     background: #2a66b3;
+     border: 1px solid #2a66b3
+ }
+
+ .t_twitter:hover {
+     color: #fff;
+     background: #35bbec;
+     border: 1px solid #35bbec
+ }
+
+ .pinterest:hover {
+     color: #fff;
+     background: #cb2027;
+     border: 1px solid #cb2027
+ }
+
+ .linkedin:hover {
+     color: #fff;
+     background: #007bb5;
+     border: 1px solid #007bb5
+ }
+
+ .g_google:hover {
+     color: #fff;
+     background: #e55644;
+     border: 1px solid #e55644
+ }
+
+ .dribbble:hover {
+     color: #fff;
+     background: #ea4c89;
+     border: 1px solid #ea4c89
+ }
+
+ .skype:hover {
+     color: #fff;
+     background: #01aaf8;
+     border: 1px solid #01aaf8
+ }
+
+ .flickr:hover {
+     color: #fff;
+     background: #ff0084;
+     border: 1px solid #ff0084
+ }
+
+ .gap {
+     margin-left: 15px
+ }
